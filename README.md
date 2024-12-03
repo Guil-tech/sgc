@@ -42,7 +42,7 @@ This was my first project that I pushed to github (In the year 2021). The projec
 
 ## Sistema de Gerenciamento Comercial (SGC)
 
-Esse foi o meu primeiro projeto que subi no github. No ano de 2021 eu criei. Este projeto contém scripts SQL para criar o banco de dados de um Sistema de Gerenciamento Comercial (SGC). O banco de dados inclui tabelas essenciais para gerenciamento de armazéns, peças, clientes, vendedores e pedidos.
+Esse foi o meu primeiro projeto que subi no github. No ano de 2021. Este projeto contém um script SQL para criar o banco de dados de um Sistema de Gerenciamento Comercial (SGC). O banco de dados inclui tabelas essenciais para gerenciamento de armazéns, peças, clientes, vendedores e pedidos.
 
 ## Estrutura das Tabelas
 

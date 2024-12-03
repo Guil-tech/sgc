@@ -2,7 +2,7 @@
 
 ## Commercial Management System (SGC)
 
-This was my first project that I pushed to github (In the year 2021). The project contains a SQL script to create the one database for a Commercial Management System (SGC). The database includes essential tables for managing warehouses, parts, customers, sellers, and orders.
+This was my first project that I pushed to github (In the year 2021). The project contains a SQL script to create one database for a Commercial Management System (SGC). The database includes essential tables for managing warehouses, parts, customers, sellers, and orders.
 
 ## Table Structure
 
